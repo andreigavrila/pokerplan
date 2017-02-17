@@ -1,1 +1,2 @@
-﻿
+﻿Feature one was partially added
+Feature one was finished
