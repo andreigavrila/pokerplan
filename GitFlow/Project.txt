@@ -1,3 +1,4 @@
 ﻿Feature one was partially added
 Feature one was finished
 Minor development fix
+Feature two
